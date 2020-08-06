@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ... 
+
 - 🤔 I’m looking for help with ...
 
 - 📫 How to reach me: ...
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript
 - 💬 Go to babyshark555.github.io!  Not yet though, I'm still working on it.
 If I ever get a website I will call it zacharychan.com
--One of my friends, Ryyn-Sd, has a website called rayyansaidi.com, and an app.  Go check it out!
+- 👯 One of my friends, Ryyn-Sd, has a website called rayyansaidi.com, and an app.  Go check it out!
