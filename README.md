@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Zachary
 
 <!--
 **babyshark555/babyshark555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... my GitHub page, babyshark555.github.io
-- 🌱 I’m currently learning ... Javascript
+- 🔭 I’m currently working on my GitHub page, babyshark555.github.io
+- 🌱 I’m currently learning Javascript
+Go to babyshark555.github.io!  Not yet though, I'm still working on it.
+If I ever get a website I will call it zacharychan.com
+One of my friends, Ryyn-Sd, has a website called rayyansaidi.com, and an app.  Go check it out!
